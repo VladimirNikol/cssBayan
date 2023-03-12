@@ -84,10 +84,6 @@ label:hover img {
     justify-content: space-between;
 }
 
-.plus {
-
-}
-
 label:hover .plus {
     rotate: 45deg;
 }
